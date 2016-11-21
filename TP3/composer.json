@@ -1,0 +1,19 @@
+{
+    "name": "gabriel/tp3",
+    "description": "TP3 web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gabriel LEfevre",
+            "email": "lfv.gabriel@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.21",
+        "erusev/parsedown": "^1.6",
+        "erusev/parsedown-extra": "^0.7.1"
+    },
+    "autoload" : {
+        "psr-4": {"TP3Web\\" : "src/"}
+    }
+}
