@@ -5,6 +5,19 @@
  * Date: 21/11/16
  * Time: 11:11
  */
+
+var_export($_POST);
+
+$expected = array( 'nom', 'prenom', 'profession', 'age', 'email');
+foreach( $expected AS $key ) {
+    if (!empty($_POST[$key])) {
+        ${$key} = $_POST[$key];
+    } else {
+        ${$key} = NULL;
+    }
+}
+
+
 // Chaîne de caractères
 if ( isset( $value ) && $value !== NULL ) {
 // $value est une (vide éventuellement) string en PHP
@@ -27,3 +40,7 @@ if ( !settype ( $age, 'integer' ) ) {
 is_numeric(3.14); // renvoie True
 //La longueur
 if ( strlen( $age ) > 3 ) exit ( "$age n'est pas une valeur valide pour l'age!" );
+
+?>
+
+<h3>Test</h3>
