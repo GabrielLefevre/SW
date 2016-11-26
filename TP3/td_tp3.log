@@ -14,3 +14,9 @@
 [Mon 21/11/16 10:46:13] trace.INFO: Pourquoi ? {"i":18} {"file":"/export/etu/gabriel.lefevre/Documents/SW/TP3/src/Hello.php","line":17,"class":"TP3Web\\Hello","function":"bonjour"}
 [Mon 21/11/16 10:46:18] trace.INFO: Voici un exemple de message stocké dans le fichier log [] {"file":"/export/etu/gabriel.lefevre/Documents/SW/TP3/src/Hello.php","line":15,"class":"TP3Web\\Hello","function":"bonjour"}
 [Mon 21/11/16 10:46:18] trace.INFO: Pourquoi ? {"i":18} {"file":"/export/etu/gabriel.lefevre/Documents/SW/TP3/src/Hello.php","line":17,"class":"TP3Web\\Hello","function":"bonjour"}
+[Mon 21/11/16 13:29:40] trace.INFO: Voici un exemple de message stocké dans le fichier log [] {"file":"/export/etu/gabriel.lefevre/Documents/SW/TP3/src/Hello.php","line":15,"class":"TP3Web\\Hello","function":"bonjour"}
+[Mon 21/11/16 13:29:40] trace.INFO: Pourquoi ? {"i":18} {"file":"/export/etu/gabriel.lefevre/Documents/SW/TP3/src/Hello.php","line":17,"class":"TP3Web\\Hello","function":"bonjour"}
+[Sat 26/11/16 09:26:54] trace.INFO: Voici un exemple de message stocké dans le fichier log [] {"file":"/export/etu/gabriel.lefevre/Documents/SW/TP3/src/Hello.php","line":15,"class":"TP3Web\\Hello","function":"bonjour"}
+[Sat 26/11/16 09:26:54] trace.INFO: Pourquoi ? {"i":18} {"file":"/export/etu/gabriel.lefevre/Documents/SW/TP3/src/Hello.php","line":17,"class":"TP3Web\\Hello","function":"bonjour"}
+[Sat 26/11/16 10:02:30] trace.INFO: Voici un exemple de message stocké dans le fichier log [] {"file":"/export/etu/gabriel.lefevre/Documents/SW/TP3/src/Hello.php","line":15,"class":"TP3Web\\Hello","function":"bonjour"}
+[Sat 26/11/16 10:02:30] trace.INFO: Pourquoi ? {"i":18} {"file":"/export/etu/gabriel.lefevre/Documents/SW/TP3/src/Hello.php","line":17,"class":"TP3Web\\Hello","function":"bonjour"}
